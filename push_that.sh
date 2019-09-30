@@ -1,5 +1,4 @@
 #!/bin/bash
-
 read -p 'Entrez votre message : ' message
 git add --all
 git commit -m "$message"
